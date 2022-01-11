@@ -1,0 +1,7 @@
+wandb
+torch==1.0.1
+pandas
+nltk
+matplotlib
+tqdm
+networkx

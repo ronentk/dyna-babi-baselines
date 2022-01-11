@@ -1,0 +1,5 @@
+conda install -c conda-forge tensorboardx
+conda install -c conda-forge tqdm
+conda install -c pytorch pytorch
+mkdir logs
+mkdir saved_models
