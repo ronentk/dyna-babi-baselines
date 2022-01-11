@@ -1,5 +1,5 @@
-# eco-sem-mbabi-models
-Experiments running models on "mixed bAbI" tasks
+# dyna-babi-baselines
+Experiments running models on dyba-bAbI tasks
 
 ## Data
 To create a ./data directory and download the bAbI dataset to it
