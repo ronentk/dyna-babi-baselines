@@ -1,5 +1,5 @@
 # dyna-babi-baselines
-Experiments running models on dyba-bAbI tasks
+Experiments running baseline models on dyba-bAbI tasks: [EntNet](https://arxiv.org/abs/1612.03969) and [SAM](https://arxiv.org/abs/2002.03519).
 
 ## Data
 To create a ./data directory and download the bAbI dataset to it
@@ -57,6 +57,8 @@ run and the number of runs respectively, and are used for documentation.
 If using the `--use_wandb_data` flag, the `data_dir` should be a valid wandb dataset path
 
 ## Running SAM
+
+The SAM code is basically the official [repo](https://github.com/thaihungle/SAM), with slight adaptations to include wandb logging, etc.
 
 ### Setup
 
